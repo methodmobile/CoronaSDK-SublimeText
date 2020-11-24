@@ -1,6 +1,6 @@
 %YAML 1.2
 ---
-name: Solar2D LUA
+name: LUA (Solar2D)
 file_extensions:
   - lua
 scope: source.lua.corona
